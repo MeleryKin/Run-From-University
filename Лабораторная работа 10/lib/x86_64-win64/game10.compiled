@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1317892579"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\Домашний ПК\Desktop\Лабораторная работа 10\Project\lib\x86_64-win64&quot; -FuC:\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Lazarus\lcl\units\x86_64-win64 -FuC:\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\Домашний ПК\Desktop\Лабораторная работа 10\Project\&quot; &quot;-FUC:\Users\Домашний ПК\Desktop\Лабораторная работа 10\Project\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Домашний ПК\Desktop\Лабораторная работа 10\Project\&quot; &quot;-oC:\Users\Домашний ПК\Desktop\Лабораторная работа 10\Project\game10.exe&quot; -dLCL -dLCLwin32 game10.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
